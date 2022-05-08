@@ -1,7 +1,11 @@
 __pycache__
 aqc
 concatdata
+correcteddata
 dataset
 rawdata
 stationdata
 validateddata
+weatherdata
+models
+history
